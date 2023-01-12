@@ -1,3 +1,4 @@
 <?php 
-echo "ini adalah contoh pertama"
+echo "ini adalah contoh pertamaku"
 ?>
+halaman satu
